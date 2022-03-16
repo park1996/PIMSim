@@ -1,3 +1,6 @@
+# Forked by Parker Tian at Simon Fraser University
+This repo is forked by [Parker Tian](https://parkertian.ca) at Simon Fraser University based on PIMSim developed by authors below. The goal is to re-integrate the latest version of gem5 (21.2.1.0 at the latest commit) with the simulator to ensure continous work.
+
 # PIMSim had updated to V2.0!
 
 Add support to GEM5 full-sytem simulation.
